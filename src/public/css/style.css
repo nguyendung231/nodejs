@@ -71,3 +71,11 @@ body {
   margin-top: 20px;
   cursor: pointer;
 }
+
+.upload-file-container{
+  padding: 15px;
+}
+
+.upload-file-container label{
+  display: block;
+}
